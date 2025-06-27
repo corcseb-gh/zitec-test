@@ -37,6 +37,8 @@ target/
 *.iws
 *.iml
 *.ipr
+ssh_key
+ssh_key.pub
 
 ### Eclipse ###
 .apt_generated
