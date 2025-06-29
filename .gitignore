@@ -67,3 +67,4 @@ build/
 >>>>>>> e2fff48... commit
 
 ssh_key*
+/src/test/resources/config.properties
